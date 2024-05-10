@@ -1,10 +1,20 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/AgentV21/test.git": [
+      "AgentV21/test",
+      "1715303186565"
+    ]
+  },
   "studio-open-web": {},
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/AgentV21/test.git:test.groovy": [
+      "https://github.com/AgentV21/test.git",
+      "test.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
